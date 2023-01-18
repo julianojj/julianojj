@@ -2,4 +2,4 @@ Hi 👋, I'm Juliano, a backend developer with more than 3 years of experience. 
 
 Find me on:
 
-[Linkedin](https://linkedin/in/julianojj)
+[LinkedIn](https://www.linkedin.com/in/julianojj/)
