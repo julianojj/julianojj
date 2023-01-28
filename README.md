@@ -2,4 +2,8 @@ Hi 👋, I'm Juliano, a backend developer with more than 3 years of experience. 
 
 Find me on:
 
-[LinkedIn](https://www.linkedin.com/in/julianojj/)
+<div>
+  <a href="https://www.linkedin.com/in/julianojj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
