@@ -2,7 +2,7 @@
 
 Software engineer specialized in creating microservices. I have knowledge in architectural solutions, as well as experience in automated testing.
 
-Find me on: [LinkedIn](https://www.linkedin.com/in/julianojj/) and [Medium](https://medium.com/@julianojj).
+Find me on: [LinkedIn](https://www.linkedin.com/in/julianojj/).
 
 <!--
 **julianojj/julianojj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
